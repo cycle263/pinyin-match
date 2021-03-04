@@ -21,7 +21,7 @@
     "url": "https://github.com/xmflswood/pinyin-match.git"
   },
   "author": "774898896@qq.com",
-  "license": "SATA",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "@babel/plugin-transform-runtime": "^7.12.10",
